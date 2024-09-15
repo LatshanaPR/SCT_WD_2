@@ -19,7 +19,7 @@ This is a simple web-based stopwatch application that allows users to start, pau
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/stopwatch-app.git
+    git clone https://github.com/LatshanaPR/SCT_WD_2
     ```
 2. **Navigate to the Project Directory**:
     ```bash
