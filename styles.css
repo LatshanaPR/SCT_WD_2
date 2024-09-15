@@ -1,0 +1,62 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #333;  
+    color: white;
+    margin: 0;
+    background-image: url('soft gradient.jpg'); 
+    background-size: cover; 
+    background-position: center;
+}
+
+.container {
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.5);  
+    padding: 20px;
+    border-radius: 10px;
+}
+
+#time {
+    font-size: 48px;
+    margin: 20px 0;
+    color: white;
+}
+
+.buttons {
+    margin: 20px;
+}
+
+button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+#lapTimes {
+    list-style: none;
+    padding: 0;
+}
+
+#lapTimes li {
+    margin: 5px 0;
+    background-color: #444;  
+    color: black;             
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.laps {
+    margin-top: 20px;
+}
